@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Escort Services in Islamabad. Contact 0345 9992246 via Call or WhatsApp. Privacy and discretion ensured.">
+  <title>Escort Services in Islamabad – Contact 0345 9992246</title>
+</head>
+<body>
+  <h1>Escort Services in Islamabad – Contact 0345 9992246</h1>
+  
+  <p>Looking for <strong>escort services in Islamabad</strong>? You can contact <strong>0345 9992246</strong> via:</p>
+  
+  <ul>
+    <li>📞 <a href="tel:+923459992246">Call Now</a></li>
+    <li>💬 <a href="https://wa.me/923459992246" target="_blank">WhatsApp</a></li>
+  </ul>
+  
+  <p>We cover <strong>Islamabad, Rawalpindi, and nearby areas</strong>. All inquiries are handled with <strong>privacy and discretion</strong>.</p>
+  
+  <p>If you are searching for <strong>trusted escort services in Islamabad</strong>, contact <strong>0345 9992246</strong> today.</p>
+  
+  <hr>
+  <p>See other variations:</p>
+  <ul>
+    <li><a href="page2.html">Variation 2</a></li>
+    <li><a href="page3.html">Variation 3</a></li>
+  </ul>
+</body>
+</html>
